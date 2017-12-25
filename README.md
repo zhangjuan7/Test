@@ -2,5 +2,7 @@
   <head>
     <title>start gethub</title>
   </head>
-  <body>start new a project</body>
+  <body>
+    start new a project
+  </body>
 </html>
